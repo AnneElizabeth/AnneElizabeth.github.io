@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Zoomdog Studios
 header-img: img/home-bg.png
 email: edmondson.anne@gmail.com
 copyright_name: AnneElizabeth
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Musings from the Wide World of Web Development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AnneElizabeth
