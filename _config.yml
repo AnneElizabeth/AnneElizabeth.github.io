@@ -1,15 +1,14 @@
 # Site settings
-title: Zoomdog Studios: Web Dev from 5280'
+author: Anne Edmondson
+title: 5280 Web Dev 
 header-img: img/home-bg.png
 email: edmondson.anne@gmail.com
-copyright_name: AnneElizabeth
+copyright_name: Anne Edmondson
 description: > # this means to ignore newlines until "baseurl:"
-  Musings from the Wide World of Web Development
+  Colorado Coding Discoveries
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AnneElizabeth
-learn_profile: AnneElizabeth
-email_username: edmondson.anne@gmail.com
 
 # Build settings
 markdown: kramdown
